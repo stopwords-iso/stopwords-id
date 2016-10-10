@@ -580,6 +580,7 @@ sekalian
 sekaligus
 sekalipun
 sekarang
+sekarang
 sekecil
 seketika
 sekiranya
@@ -588,7 +589,6 @@ sekitarnya
 sekurang-kurangnya
 sekurangnya
 sela
-selagi
 selain
 selaku
 selalu
